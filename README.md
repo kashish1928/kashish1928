@@ -1,12 +1,32 @@
-### Hi there 👋
+### Hi there 👋, my name is **Kashish Joshipura**
 
- My name is **Kashish Joshipura**
+<p align = "center"
+   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)
+   
+</p>
+
+<hr></hr>
 
 - 🔭 I’m currently studying at The University of British Columbia
-- 🌱 I’m pusuing my Bachelor's degree in Science majoring in Statistics with a thematic concentration in Computer Science
+- 🌱 I’m pursuing my Bachelor's degree in Science majoring in Statistics with a thematic concentration in Computer Science
 - 👨🏻‍💻 I’m looking to collaborate on any projects related to Data Science and Data Analytics
-- 📫 How to reach me: 
-   - Mail: kashishjoshipura@gmail.com
-   - Linkedin: https://www.linkedin.com/in/kashishjoshipura/
+- 🧑🏻‍💼 Currently looking for Fall/Winter 2023 Co-Op opportunities
 - 😄 Pronouns: He/Him
+- 📫 How to reach me:
+  
+<a href = "https://www.linkedin.com/in/kashishjoshipura/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href = "mailto:kashishjoshipura@gmail.com"><img src= "https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<hr></hr>
+
+<h3> 🛠️ SKILLS </h3>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
