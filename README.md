@@ -35,3 +35,12 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashish1928&show_icons=true&locale=en&theme=dark" alt="kashish1928" /></p>
+
+<hr></hr>
+<h3> 👨🏻‍💻 TASKS </h3>
+
+- [x] Born
+- [ ] Got a job
+- [ ] Married
+- [ ] Have children
+- [ ] Die
