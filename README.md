@@ -34,4 +34,4 @@
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apramm&show_icons=true&locale=en&theme=tokyonight" alt="kashish1928" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashish1928&show_icons=true&locale=en&theme=tokyonight" alt="kashish1928" /></p>
