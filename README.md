@@ -11,7 +11,7 @@
 - 🔭 I’m currently studying at The University of British Columbia
 - 🌱 I’m pursuing my Bachelor's degree in Science majoring in Statistics with a thematic concentration in Computer Science
 - 👨🏻‍💻 I’m looking to collaborate on any projects related to Data Science and Data Analytics
-- 🧑🏻‍💼 Currently looking for Fall/Winter 2023 Co-Op opportunities
+- 🧑🏻‍💼 Currently looking for Summer 2023 Co-Op opportunities
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
   
