@@ -19,8 +19,6 @@
 <a href = "mailto:kashishjoshipura@gmail.com"><img src= "https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://probable-braid-26e.notion.site/Kashish-Joshipura-69be111ec5ba4958ba39a8aaba5bc975?pvs=4"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=blue" target="_blank"></a>
 
-![Hits](https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fkashish1928)
-
 <hr></hr>
 
 <h3> 🛠️ SKILLS </h3>
