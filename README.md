@@ -42,6 +42,28 @@
 
 <hr></hr>
 
+
+<!-- <div align="center">
+    <details>
+        <summary><b>Work Experience👇🏻</b></summary>
+    <br>
+
+   <ul>
+      <li>Data Science Intern at BC Hydro</li>
+      <img src="https://th.bing.com/th/id/OIP.txWq7ZtNICPOn_Ev3piijwHaEK?w=317&h=180&c=7&r=0&o=5&dpr=2&pid=1.7" target="_blank" width="600" height="300">
+      <li>Software Developer at Vancouver General Hospital (OVCARE)</li>
+      <img src="https://obgyn.ubc.ca/files/2019/12/OVCARE.png" target="_blank" width="600" height="300">
+      <li>Data Analyst Intern at Samsung Electronics</li>
+      <img src="https://images.samsung.com/is/image/samsung/assets/global/about-us/brand/logo/720_600_1.png?$720_N_PNG$" target="_blank" width="600" height="300">
+   </ul>
+    </details>
+</div>
+
+
+<hr></hr>
+
+-->
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashish1928&show_icons=true&locale=en&theme=dark" alt="kashish1928" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kashish1928&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
