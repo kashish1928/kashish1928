@@ -62,9 +62,9 @@
 
 <hr></hr>
 
--->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashish1928&show_icons=true&locale=en&theme=dark" alt="kashish1928" /></p>
+-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kashish1928&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
