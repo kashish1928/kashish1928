@@ -10,8 +10,8 @@
 
 - 🔭 I’m currently studying at The University of British Columbia
 - 🌱 I’m pursuing my Bachelor's degree in Science majoring in Statistics and Computer Science
-- 👨🏻‍💻 I’m looking to collaborate on any projects related to Data Engineering, Data Science, and Software Development
-- 🧑🏻‍💼 Currently looking for Summer 2025 Co-Op opportunities
+- 👨🏻‍💻 I’m looking to collaborate on any projects related to Data Engineering, Data Science, and Data Analysis
+- 🧑🏻‍💼 Currently looking for interesting opportunities
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
   
